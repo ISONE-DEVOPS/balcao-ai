@@ -1,0 +1,26 @@
+{
+  "loja": "Kantina di Nha Bia",
+  "moeda": "CVE",
+  "produtos": [
+    {"id": "cachupa", "nome": "Cachupa", "aliases": ["katxupa", "catchupa", "cachupa rica"], "variantes": [{"id": "pequena", "nome": "Pequena", "aliases": ["pikinoti"], "preco": 350}, {"id": "grande", "nome": "Grande", "aliases": ["grandi"], "preco": 550}]},
+    {"id": "cachupa-refogada", "nome": "Cachupa refogada", "aliases": ["katxupa rifugadu", "cachupa frita"], "variantes": [{"id": "unica", "nome": "Dose", "aliases": ["dosi"], "preco": 450}]},
+    {"id": "caldo-peixe", "nome": "Caldo de peixe", "aliases": ["kaldu di pexi", "caldo pexe"], "variantes": [{"id": "unica", "nome": "Dose", "aliases": ["dosi"], "preco": 500}]},
+    {"id": "frango-assado", "nome": "Frango assado", "aliases": ["galinha asadu", "frangu", "galinha"], "variantes": [{"id": "meio", "nome": "Meio", "aliases": ["meiu"], "preco": 450}, {"id": "inteiro", "nome": "Inteiro", "aliases": ["interu"], "preco": 850}]},
+    {"id": "feijoada", "nome": "Feijoada", "aliases": ["fijoada"], "variantes": [{"id": "unica", "nome": "Dose", "aliases": ["dosi"], "preco": 500}]},
+    {"id": "arroz-marisco", "nome": "Arroz de marisco", "aliases": ["aros di marisku"], "variantes": [{"id": "unica", "nome": "Dose", "aliases": ["dosi"], "preco": 700}]},
+    {"id": "pastel", "nome": "Pastel de milho", "aliases": ["pastel", "pastel di midju", "pastéis", "pasteis"], "variantes": [{"id": "unidade", "nome": "Unidade", "aliases": [], "preco": 60}]},
+    {"id": "rissol", "nome": "Rissol", "aliases": ["risol", "rissóis", "rissois"], "variantes": [{"id": "unidade", "nome": "Unidade", "aliases": [], "preco": 50}]},
+    {"id": "cuscuz", "nome": "Cuscuz", "aliases": ["kuskus", "cuscus"], "variantes": [{"id": "unidade", "nome": "Unidade", "aliases": [], "preco": 150}]},
+    {"id": "bolo-cuscuz", "nome": "Bolo de cuscuz", "aliases": ["bolu di kuskus"], "variantes": [{"id": "fatia", "nome": "Fatia", "aliases": [], "preco": 100}, {"id": "inteiro", "nome": "Inteiro", "aliases": ["interu"], "preco": 900}]},
+    {"id": "doce-papaia", "nome": "Doce de papaia", "aliases": ["dosi di papaia"], "variantes": [{"id": "frasco", "nome": "Frasco", "aliases": ["frasku"], "preco": 400}]},
+    {"id": "queijo-cabra", "nome": "Queijo de cabra", "aliases": ["keju di kabra", "keju", "queijo"], "variantes": [{"id": "meio", "nome": "Meio", "aliases": ["meiu"], "preco": 350}, {"id": "inteiro", "nome": "Inteiro", "aliases": ["interu"], "preco": 650}]},
+    {"id": "pao", "nome": "Pão", "aliases": ["pon", "pãozinho"], "variantes": [{"id": "unidade", "nome": "Unidade", "aliases": [], "preco": 20}]},
+    {"id": "sumo-tamarindo", "nome": "Sumo de tamarindo", "aliases": ["sumu di tamarindu", "tamarindo", "tamarindu"], "variantes": [{"id": "copo", "nome": "Copo", "aliases": ["kopu"], "preco": 100}, {"id": "litro", "nome": "Litro", "aliases": ["litru"], "preco": 350}]},
+    {"id": "ponche", "nome": "Ponche", "aliases": ["pontxi", "ponch"], "variantes": [{"id": "garrafa", "nome": "Garrafa", "aliases": ["garafa"], "preco": 800}]},
+    {"id": "grogue", "nome": "Grogue", "aliases": ["grogu", "grog"], "variantes": [{"id": "garrafa", "nome": "Garrafa", "aliases": ["garafa"], "preco": 1200}]},
+    {"id": "agua", "nome": "Água", "aliases": ["agu", "água mineral"], "variantes": [{"id": "pequena", "nome": "0,5 L", "aliases": ["pikinoti"], "preco": 50}, {"id": "grande", "nome": "1,5 L", "aliases": ["grandi"], "preco": 100}]},
+    {"id": "refrigerante", "nome": "Refrigerante", "aliases": ["refri", "koka", "fanta", "sumo de lata"], "variantes": [{"id": "lata", "nome": "Lata", "aliases": [], "preco": 120}]},
+    {"id": "cafe", "nome": "Café", "aliases": ["kafé", "cafezinho"], "variantes": [{"id": "chavena", "nome": "Chávena", "aliases": [], "preco": 80}]},
+    {"id": "cerveja", "nome": "Cerveja", "aliases": ["serveja", "strela", "estrela"], "variantes": [{"id": "garrafa", "nome": "Garrafa", "aliases": ["garafa"], "preco": 150}]}
+  ]
+}
